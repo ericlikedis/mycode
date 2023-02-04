@@ -4,8 +4,8 @@ def name_of_function():
     This is a docstring for comments
     """
     print("Hello")
-result = name_of_function()
-print(result)
+results = name_of_function()
+print(results)
 
 # Example function
 def name_of_function(name):
